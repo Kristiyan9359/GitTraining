@@ -1,4 +1,4 @@
-# Git Training
+# Git Training - Version B
 
 This repository is for learning Git and GitHub.
 
