@@ -10,3 +10,7 @@ This repository is for learning Git and GitHub.
 - Pull Requests
 - GitHub Actions
 - DevOps
+
+## Git Branching
+
+This section was created in a feature branch.
