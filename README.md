@@ -9,3 +9,4 @@ This repository is for learning Git and GitHub.
 - Branches
 - Pull Requests
 - GitHub Actions
+- DevOps
