@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello from GitTraining!";
+﻿Console.WriteLine("Hello from GitTraining!");
