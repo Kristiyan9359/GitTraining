@@ -9,11 +9,6 @@ on:
       - '.github/workflows/**'
   pull_request:
     branches: [ "master" ]
-    paths:
-       - '**.cs'
-       - '**.csproj'
-       - '.github/workflows/**'
-
 jobs:
   build:
 
