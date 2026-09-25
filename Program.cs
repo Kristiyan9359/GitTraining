@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello from CI feature branch!");
+﻿Console.WriteLine("Hello from GitTraining!");
