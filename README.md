@@ -22,3 +22,6 @@ Learning Git step by step.
 Git practice #1
 
 Git practice #2
+
+Git practice #3
+
